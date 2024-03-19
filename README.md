@@ -7,8 +7,10 @@ Experience the taste of Spain with Macarrones con Tomate, a delightful blend of 
 
 <img src="images/macarrones.jpeg" alt="Macarrones" width="600"/>
 
-
 <br><br>
+
+---
+
 #### Ingredients:
 
 * **400 g of macaroni**
@@ -19,6 +21,8 @@ Experience the taste of Spain with Macarrones con Tomate, a delightful blend of 
 * **2 chorizo sausages**
 * **Salt and black pepper to taste**
 * **Extra virgin olive oil**
+
+---
 <br><br><br><br><br>
 
 
@@ -48,9 +52,9 @@ Enjoy your Spanish macarrones con tomate! 😋
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/GFKZpLwAvTc?si=zfT9PvyHcTiHHrjH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> 
 
-
  You can also see the video by clicking [here](https://www.youtube.com/embed/GFKZpLwAvTc?si=zfT9PvyHcTiHHrjH)
 
+---
 
 <br><br><br><br><br>
 
@@ -58,18 +62,4 @@ Enjoy your Spanish macarrones con tomate! 😋
 
 <br><br>
 
-**Username:** EpicureanExplorer **Date:** March 19, 2024
-
-
-“I recently had the pleasure of trying the Macarrones con Tomate recipe, and it was a delightful experience. The combination of al dente macaroni with the rich and tangy tomato sauce was a treat for the taste buds. The addition of chorizo added a lovely depth of flavor and a slight kick that elevated the dish. The recipe was straightforward and easy to follow, making it a perfect choice for a weeknight dinner or a casual gathering with friends. I appreciated the optional touch of manchego cheese, which added a creamy texture and a hint of sharpness. Overall, this dish is a wonderful way to bring a piece of Spain into your kitchen. It’s definitely a recipe I’ll be returning to!”
-
-
-**Username:** CulinaryCritic **Date:** March 19, 2024
-
-“Absolutely loved the Macarrones con Tomate! It’s a simple yet flavorful dish that brings a taste of Spain right to your table. Perfect for a quick, delicious meal.”
-
-
-
-**Username:** DisappointedDiner **Date:** March 19, 2024
-
-“Found the Macarrones con Tomate bland and uninspiring. Would not recommend.”
+> 
