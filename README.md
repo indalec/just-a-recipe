@@ -58,7 +58,12 @@ Enjoy your Spanish macarrones con tomate! 😋
 
 <br><br>
 
+Username: EpicureanExplorer Date: March 19, 2024
+
+
 “I recently had the pleasure of trying the Macarrones con Tomate recipe, and it was a delightful experience. The combination of al dente macaroni with the rich and tangy tomato sauce was a treat for the taste buds. The addition of chorizo added a lovely depth of flavor and a slight kick that elevated the dish. The recipe was straightforward and easy to follow, making it a perfect choice for a weeknight dinner or a casual gathering with friends. I appreciated the optional touch of manchego cheese, which added a creamy texture and a hint of sharpness. Overall, this dish is a wonderful way to bring a piece of Spain into your kitchen. It’s definitely a recipe I’ll be returning to!”
 
+
+Username: CulinaryCritic Date: March 19, 2024
 
 “Absolutely loved the Macarrones con Tomate! It’s a simple yet flavorful dish that brings a taste of Spain right to your table. Perfect for a quick, delicious meal.”
