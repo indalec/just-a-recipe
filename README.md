@@ -14,6 +14,7 @@ Salt and black pepper to taste
 Extra virgin olive oil
 
 
+
 1.Cook the macaroni in a large pot of boiling salted water until al dente, according to the package instructions. Drain and set aside.
 
 
