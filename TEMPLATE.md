@@ -37,7 +37,7 @@ cd project-name
 
 # Install dependencies
 npm install
-\```
+```
 
 ## Usage
 
@@ -53,4 +53,4 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-MIT
+Provide the License for this project
