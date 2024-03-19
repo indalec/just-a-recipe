@@ -11,7 +11,7 @@ Experience the taste of Spain with Macarrones con Tomate, a delightful blend of 
 
 ---
 
-#### Ingredients:
+### Ingredients:
 
 * **400 g of macaroni**
 * **1 onion**
