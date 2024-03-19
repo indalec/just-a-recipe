@@ -23,7 +23,7 @@ Experience the taste of Spain with Macarrones con Tomate, a delightful blend of 
 * **Extra virgin olive oil**
 
 ---
-<br><br><br><br><br>
+<br><br><br>
 
 
 1. Cook the macaroni in a large pot of boiling salted water until al dente, according to the package instructions. Drain and set aside.
@@ -58,7 +58,7 @@ Enjoy your Spanish macarrones con tomate! 😋
 
 ---
 
-<br><br><br><br>
+<br><br><br>
 
 ### COMMENTS ON THE RECIPE
 
