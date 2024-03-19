@@ -3,6 +3,12 @@
 
 Experience the taste of Spain with Macarrones con Tomate, a delightful blend of macaroni and tangy tomato sauce. This easy-to-follow recipe, enhanced with optional chorizo, is perfect for all cooks. Enjoy this Spanish culinary journey!
 
+![alt text](images/macarrones.jpeg)
+
+
+
+ 
+
 #### Ingredients:
 
 * 400 g of macaroni
@@ -16,7 +22,7 @@ Experience the taste of Spain with Macarrones con Tomate, a delightful blend of 
 
 
 
-1.Cook the macaroni in a large pot of boiling salted water until al dente, according to the package instructions. Drain and set aside.
+1. Cook the macaroni in a large pot of boiling salted water until al dente, according to the package instructions. Drain and set aside.
 
 
 2. In a large skillet over medium-high heat, heat some oil and cook the chorizo sausages until browned and crisp, turning occasionally. Transfer to a plate and keep warm.
